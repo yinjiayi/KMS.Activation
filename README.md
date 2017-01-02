@@ -9,3 +9,5 @@ KMS.Activation
 - 设置本机激活服务器地址为kms.hcs.ac.cn
 - 导入相对应版本的KMS激活序列号
 - 连接kms.hcs.ac.cn进项激活等待反馈
+##优点
+- 使用了Powershell命令（CMD命令）便捷迅速
