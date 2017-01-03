@@ -203,5 +203,7 @@ call :ActOffice 14 Office2010
 :fail
 cls
 echo 无法连接到服务器……
+echo 2017-1-3-20:56
 pause
 exit
+
