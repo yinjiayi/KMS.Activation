@@ -8,4 +8,7 @@ KMS.Activation
 ##原理
 - 设置本机激活服务器地址为kms.hcs.ac.cn
 - 导入相对应版本的KMS激活序列号
-- 连接kms.hcs.ac.cn进项激活等待反馈
+- 连接kms.hcs.ac.cn进项激活等待反馈  
+##优点  
+- 便捷  
+- 无残留（属官方激活方式）
