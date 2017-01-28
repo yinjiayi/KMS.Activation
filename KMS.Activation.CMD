@@ -20,8 +20,8 @@ ver | find "6.2." > NUL &&  goto win8
 ver | find "6.3." > NUL &&  goto win81
 ver | find "10.0." > NUL &&  goto win10
 echo 未找到合适的NT6系统，可能是WinXP或Win2003。
-goto office
-
+goto office  
+echo
 :winvista
 echo 当前为Windows Vista/2008。
 set Business=YFKBB-PQJJV-G996G-VWGXY-2V3X8
