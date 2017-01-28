@@ -4,8 +4,7 @@ setlocal EnableDelayedExpansion & cd /d "%~dp0"
 title KMS激活工具
 %1 %2
 ver|find "5.">nul&&goto :xptooff
-mshta vbscript:createobject("shell.application").shellexecute("%~s0","goto :start","","runas",1)(window.close)&goto :eof
-
+mshta vbscript:createobject("shell.application").shellexecute("%~s0","goto :start","","runas",1)(window.close)&goto :eofecho
 :start
 cls
 echo Windows 和 Office 激活
